@@ -1,4 +1,4 @@
-# I don't even use this shit anymore but here you go I guess
+# I don't even use this anymore but here you go I guess
 
 # Cosmetics
 
