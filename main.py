@@ -1,17 +1,26 @@
-# I don't even use this anymore but here you go I guess
-
 # Cosmetics
-
 https://fortnite-api.com/v2/cosmetics/br
 
-# Instruments
+# Item Shop
+https://fortnite-api.com/v2/shop/br
 
-https://fortnite-api.com/v2/cosmetics/instruments
+# Player Stats (Battle Royale)
+https://fortnite-api.com/v2/stats/br
 
-# Vehicles
+# News
+https://fortnite-api.com/v2/news
 
-https://fortnite-api.com/v2/cosmetics/cars
+# Playlists
+https://fortnite-api.com/v2/playlists
 
-# Lego/Kits
+# Minimap
+https://fortnite-api.com/v2/minimap
 
-https://fortnite-api.com/v2/cosmetics/lego/kits 
+# Banners
+https://fortnite-api.com/v2/banners
+
+# AES Keys
+https://fortnite-api.com/v2/aes
+
+# Creator Codes
+https://fortnite-api.com/v2/creator-codes
