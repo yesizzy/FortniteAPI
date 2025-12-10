@@ -1,3 +1,5 @@
+# I used to use this in my previous projects especially SizzyBot
+
 # Cosmetics
 https://fortnite-api.com/v2/cosmetics/br
 
